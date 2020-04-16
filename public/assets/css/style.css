@@ -1,0 +1,33 @@
+body {
+    background-image: url("../img/burger3.jpg");
+    
+}
+h1 {
+    padding-left: 15%;
+    font-size: 50px;
+    color: white;
+}
+h2 {
+    font-size: 40px;
+    padding-left: 4%;
+}
+.create-form {
+    padding-left: 5%;
+}
+.form-group {
+    font-size: 30px;
+}
+
+ol {
+    color: blue;
+    font-size: 30px;
+    padding-left: 8%;
+}
+#bu {
+    font-size: 30px;
+}
+button {
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
